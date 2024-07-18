@@ -1,0 +1,34 @@
+
+LINK TO RUN
+To create the database with all the tables, you need to run:
+
+http://localhost/prototype/code/php/Tables-MakeDB/makeTables.php
+
+To access the page, you need to run the following:
+
+http://localhost/prototype/code/php/User_file/userViewMovies.php
+
+Go to the link (sign in) and log in to the accounts (worker, admin, user) and use logout to switch between them.
+
+SIGN IN INFO
+
+USER:
+email: mikel@gmail.com
+PW: 12345
+
+ADMIN:
+email: mikel@admin.com
+PW: 12345
+
+WORKER:
+email: mikel@worker.com
+PW: 12345
+
+SUGGESTED
+
+The image img1 in the notes>pictures directory is given to you to use for insertion in order to check the functionality of the website. That is when the form asks you to upload an image, you can use this one, as all images on the site are 677 x 767. This ensures the images are 100% width, without stretching.
+
+EXAMPLE to use (suggested)
+
+Title: Purge
+Description: Purge immerses audiences into the high-octane world of underground street racing, where adrenaline-fueled drivers vie for supremacy amidst the neon-lit cityscape. As the sun sets, a clandestine network of racers unleashes their modified vehicles, pushing them to the limits in a dangerous pursuit of speed and glory. At the heart of the chaos is Max, a skilled racer haunted by his past, who seeks redemption through the roar of engines and the thrill of the chase. With each race, alliances are forged and rivalries ignite, leading to a pulse-pounding showdown where only the fastest will prevail. In a race where every second counts, Max must confront his demons and outmaneuver his adversaries to emerge victorious in the ultimate test of skill and courage.
