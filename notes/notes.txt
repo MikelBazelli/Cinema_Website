@@ -4,7 +4,7 @@ To create the database with all the tables, you need to run:
 
 http://localhost/prototype/code/php/Tables-MakeDB/makeTables.php
 
-To access the page, you need to run the following:
+To access the Home page, you need to run the following:
 
 http://localhost/prototype/code/php/User_file/userViewMovies.php
 
