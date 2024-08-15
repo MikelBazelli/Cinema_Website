@@ -35,14 +35,20 @@ prototype>notes>notes.txt
 ## Screenshots
 
 ![image](https://github.com/user-attachments/assets/2aef5c23-f565-4c3d-a0ee-3757fbfe765e)
+
 ![image](https://github.com/user-attachments/assets/60f48ee6-5baf-414a-be83-a441ecd5629e)
+
 ![image](https://github.com/user-attachments/assets/acbb9393-1d06-4393-92d4-282ea7a36605)
+
 ![image](https://github.com/user-attachments/assets/7a25e198-3419-4405-8d18-64a1a6495169)
+
 
 - Admin/Worker
 
 ![image](https://github.com/user-attachments/assets/7db551f9-2a9b-4550-9778-2d6e03b90ef1)
+
 ![image](https://github.com/user-attachments/assets/ebedb8b4-9372-433e-abbf-6fbe8713e4ad)
+
 ![image](https://github.com/user-attachments/assets/0f493be8-7d08-4799-a066-ccabb0271f9e)
 
 
