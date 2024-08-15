@@ -28,7 +28,7 @@ After completing the Cinemax website, I've learned how to design and implement a
 
 ## How to run
 
-Download and extract the prototype.zip folder. Then, navigate to the notes.txt file for guidelines on how to use the website.
+Download and extract the .zip folder. Then, navigate to the notes.txt file for guidelines on how to use the website.
 prototype>notes>notes.txt
 
 
