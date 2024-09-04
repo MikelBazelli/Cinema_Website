@@ -40,7 +40,6 @@ prototype>notes>notes.txt
 
 ![image](https://github.com/user-attachments/assets/acbb9393-1d06-4393-92d4-282ea7a36605)
 
-![image](https://github.com/user-attachments/assets/7a25e198-3419-4405-8d18-64a1a6495169)
 
 
 - Admin/Worker
